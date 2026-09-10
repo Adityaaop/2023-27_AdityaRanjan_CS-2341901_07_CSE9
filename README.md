@@ -1,8 +1,8 @@
-# Internship Evaluation — Automated Timetable Generator
+# Internship Evaluation — Professional UI/UX Design & Web Prototyping
 
 ## IILM University | B.Tech Computer Science & Engineering
 
-This repository contains the official documents and project files submitted for the Professional UI/UX Design & Web Prototyping Virtual Internship evaluation at EduSkills.
+This repository contains the official documents and project files submitted for the Internship evaluation for the academic year 2026–27 at IILM University, Greater Noida.
 
 ---
 
