@@ -6,7 +6,7 @@ This repository contains the official documents and project files submitted for 
 
 ---
 
-### 🧑‍🎓 Student Details
+### Student Details :
 
 | Field | Details |
 | :--- | :--- |
@@ -21,7 +21,7 @@ This repository contains the official documents and project files submitted for 
 
 ---
 
-### 📊 Project Highlights
+### Project Highlights :
 
 | Metric/Feature | Details |
 | :--- | :--- |
@@ -34,7 +34,7 @@ These outcomes reflect the successful development of a full-stack web applicatio
 
 ---
 
-### ☁️ Technology Stack & Architecture
+### Technology Stack & Architecture :
 
 * **Frontend:** Built with HTML5, CSS3, and Vanilla JavaScript.
 * **Backend:** Application layer powered by Node.js and Express.js REST API.
